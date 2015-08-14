@@ -18,6 +18,10 @@ h1, h3{
     font-weight: normal;
   }
 
+  .ui.card{
+  	box-shadow: none !important;
+  }
+
   .ui.vertical.stripe {
     padding: 4em 0em;
   }
